@@ -1,9 +1,9 @@
 "=========== Meta ============
 "StrID : 102
 "Title : Javascript Acayiplikleri - var
-"Slug  : 
-"Cats  : Genel
-"Tags  : 
+"Slug  : javascript-acayiplikleri-var
+"Cats  : Genel, Javascript, Web
+"Tags  : javascript, js
 "=============================
 "EditType   : post
 "EditFormat : Markdown
@@ -47,7 +47,7 @@ function f(){
 
 f();
 
->>> a : 12
+a : 12
 </pre>
 
 Görüldüğü üzere _"a"_ bir block içeresinde olmasına rağmen, block'un dışında 
